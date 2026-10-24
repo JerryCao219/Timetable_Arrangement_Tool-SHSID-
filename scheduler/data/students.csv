@@ -1,0 +1,601 @@
+grade_band,name,subjects
+9A,Lily Yang,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9A,George Luo,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,Cindy Zhu,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9C,Tom Xu,Bio_H;CAS;Chem_S+;Chinese_H;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9A,Wendy Zhao,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9B,Queenie Zhu,CAS;Chem_S+;Chinese_H;English_H;Geography_H;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9B,Aaron He,Bio_H;CAS;Chem_S+;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9B,Leo Lin,CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_H;Music;Optional;PE;Phy_S+
+9C,Ryan He,Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9C,Mia Guo,Art;Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9A,Grace Zhao,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,Wendy Lin,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9D,Ryan Guo,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9B,Grace Li,Art;Bio_H;CAS;Chem_S+;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Uma Zhao,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Emma Chen,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9B,Julia Gao,Bio_H;CAS;Chem_S+;Chinese_H;English_H;History_S;Language;Math_H;Music;Optional;PE;Phy_S+
+9D,Ivy Wu,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9B,Hannah He,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9B,Wendy Wu,Art;Bio_S;CAS;Chem_S+;Chinese_S;English_H;History_H;Language;Math_S;Optional;PE;Phy_S+
+9A,Mia Liu,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9C,Julia Li,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Bella Luo,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9D,Alex Zhao,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9A,Karen Zhao,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Chris Zhu,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9C,Ethan Zhao,Art;CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_H;Language;Math_H;Optional;PE;Phy_S+
+9A,Emma Zhou,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9B,Frank Hu,CAS;Chem_S+;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_S;Music;Optional;PE;Phy_S+
+9A,Chris Xu,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9D,Hannah Zhu,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Victor Wang,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9A,Sophia Zhao,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Jack Gao,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Kevin Sun,Art;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Kevin Liu,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Victor Ma,Art;CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9B,Ryan Xu,Art;CAS;Chem_S+;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_S;Optional;PE;Phy_S+
+9C,Nick Hu,Art;CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Xander Luo,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9C,Wendy He,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Chris Zhou,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9C,Grace Guo,CAS;Chem_S+;Chinese_S;English_H;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9A,Chris Guo,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9C,Karen Li,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9C,Aaron Wang,Art;Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9D,Wendy Gao,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Bella Liu,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Wendy Li,Art;Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Hannah Lin,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Uma Ma,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9D,Dora Ma,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Victor Yang,Art;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9B,David Ma,CAS;Chem_S+;Chinese_H;English_S;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9B,Peter Luo,Art;CAS;Chem_S+;Chinese_H;Computer Science_S;English_H;History_H;Language;Math_S;Optional;PE;Phy_S+
+9C,Frank Huang,Art;CAS;Chem_S+;Chinese_H;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Sophia Hu,Art;CAS;Chem_S+;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9B,Zoe Hu,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9C,Alex Liu,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,David Zhao,CAS;Chem_S+;Chinese_S;English_H;Geography_S;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9D,Ivy Xu,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Peter Zhou,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9C,Ivan Wang,Art;CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9D,Jack Luo,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Uma Huang,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9A,Bella Li,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9C,Ivan Liu,Art;CAS;Chem_S+;Chinese_S;English_H;Geography_S;History_S;Language;Math_H;Optional;PE;Phy_S+
+9B,Yuki Chen,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_H;History_H;Language;Math_S;Optional;PE;Phy_S+
+9C,Julia Wang,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9B,Emma Zhu,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9B,Xander Wang,Art;Bio_H;CAS;Chem_S+;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9B,Jack Zhao,Art;CAS;Chem_S+;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9C,Frank Zhou,CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9B,Queenie Zhang,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9C,Queenie Hu,Art;CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9A,Alex He,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9C,Alex Wang,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Queenie Li,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9C,Brian Gao,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Nick Zhou,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9A,Dora Zhao,Art;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,George Chen,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Zoe Zhu,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9A,Aaron Zhao,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9B,Peter Guo,Bio_H;CAS;Chem_S+;Chinese_H;English_S;History_S;Language;Math_H;Music;Optional;PE;Phy_S+
+9C,Grace Wu,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9A,Frank He,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Victor Zhang,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Dora Liu,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Bella Wang,Art;CAS;Chem_S+;Chinese_S;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9C,David Sun,Art;CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9B,Alex Zhou,Art;Bio_H;CAS;Chem_H;Chinese_H;English_S;History_H;Language;Math_H;Optional;PE;Phy_S+
+9D,Frank Gao,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Mia Chen,Art;CAS;Chem_S+;Chinese_S;English_H;Geography_H;History_S;Language;Math_S;Optional;PE;Phy_S+
+9D,Jack Huang,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9B,Xander Zhu,Bio_H;CAS;Chem_S+;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9B,Ivan Zhu,Bio_H;CAS;Chem_S+;Chinese_H;English_H;History_S;Language;Math_H;Music;Optional;PE;Phy_S+
+9A,Alex Lin,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9A,David Zhou,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9D,Queenie Xu,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Mia Xu,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9A,Leo Huang,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9B,Ethan Guo,CAS;Chem_S+;Chinese_S;Computer Science_H;English_S;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9A,Nick Li,Art;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,Ethan Wu,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9A,Brian Zhou,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,Ivy Zhou,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9C,Aaron Chen,Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9B,Victor Xu,CAS;Chem_S+;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9D,Peter Sun,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Henry Hu,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9D,Chris Li,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9C,Henry Li,Art;CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Kevin Wu,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Alex Ma,CAS;Chem_S+;Chinese_S;English_H;Geography_S;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9C,Peter Huang,Art;CAS;Chem_S+;Chinese_S;Computer Science_H;English_H;History_S;Language;Math_S;Optional;PE;Phy_S+
+9B,Emma Liu,CAS;Chem_S+;Chinese_H;English_H;Geography_H;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9C,Ethan Hu,Art;Bio_S;CAS;Chem_S;Chinese_H;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9C,David He,Art;Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_H;Language;Math_H;Optional;PE;Phy_S+
+9A,Lily Wu,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9B,Frank Zhang,Art;Bio_H;CAS;Chem_S+;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9C,Jack Wang,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,George Ma,CAS;Chem_S+;Chinese_H;Computer Science_S;English_S;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9C,Henry Gao,Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9D,Henry Guo,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9A,Brian Xu,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9B,Xander Xu,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9A,Bella Xu,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Henry Huang,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9B,Zoe Luo,CAS;Chem_S+;Chinese_H;English_S;Geography_S;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9B,Brian Li,CAS;Chem_S+;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9D,Hannah Yang,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Frank Ma,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,David Chen,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9C,Grace Chen,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9B,Peter Li,Bio_S;CAS;Chem_S+;Chinese_H;English_S;History_H;Language;Math_S;Music;Optional;PE;Phy_S+
+9D,Leo Gao,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9B,Ivan Zhang,Bio_H;CAS;Chem_S+;Chinese_H;English_S;History_H;Language;Math_S;Music;Optional;PE;Phy_S+
+9A,Ethan Zhu,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,Grace Ma,Art;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,Julia Huang,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9D,Olivia Yang,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9C,Julia Wu,CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9A,Yuki Xu,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Sophia Yang,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9D,Emma Zhang,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Henry Zhang,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Ryan Zhu,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Dora Zhu,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9A,Grace Gao,Art;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Aaron Yang,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,David Liu,CAS;Chem_S+;Chinese_H;Computer Science_H;English_S;History_S;Language;Math_H;Music;Optional;PE;Phy_S+
+9B,Chris Zhang,Art;CAS;Chem_S+;Chinese_H;Computer Science_H;English_H;History_S;Language;Math_H;Optional;PE;Phy_S+
+9B,Sophia Wang,Art;CAS;Chem_S+;Chinese_H;Computer Science_H;English_S;History_S;Language;Math_H;Optional;PE;Phy_S+
+9C,Dora He,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9C,Henry Liu,CAS;Chem_S+;Chinese_H;Computer Science_S;English_H;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9C,Leo Guo,CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9B,Cindy Chen,Art;Bio_H;CAS;Chem_S+;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9C,Yuki Liu,Art;Bio_S;CAS;Chem_S+;Chinese_S;English_H;History_H;Language;Math_S;Optional;PE;Phy_S+
+9D,Xander He,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9D,Ivan He,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Dora Hu,Art;CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9B,Chris Yang,Bio_H;CAS;Chem_H;Chinese_H;English_S;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9D,Leo Yang,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9D,Kevin Ma,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Kevin Zhao,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9B,Ryan Sun,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_H;Language;Math_H;Optional;PE;Phy_S+
+9B,Zoe Ma,CAS;Chem_S+;Chinese_H;English_H;Geography_S;History_S;Language;Math_H;Music;Optional;PE;Phy_S+
+9D,Kevin Wang,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9C,Lily Li,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9A,Ethan He,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,Nick Chen,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Brian Lin,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Yuki Hu,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Peter Lin,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,Tom Huang,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9C,Kevin Chen,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9C,Henry Wang,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Henry Zhou,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,Victor Sun,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9B,Mia Lin,Art;Bio_S;CAS;Chem_S+;Chinese_H;English_S;History_S;Language;Math_H;Optional;PE;Phy_S+
+9D,David Gao,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9D,Lily He,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Jack Zhang,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Xander Sun,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Ivy Zhang,Art;CAS;Chem_S+;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9A,Jack He,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9D,Mia Zhou,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9C,Henry Chen,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9A,Peter Xu,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9B,Olivia Hu,CAS;Chem_S+;Chinese_H;English_S;Geography_S;History_S;Language;Math_H;Music;Optional;PE;Phy_S+
+9A,Tom Gao,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9C,Fiona Wu,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Karen Zhang,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Nick Zhang,Art;CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Tom Li,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9A,Lily Xu,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9B,Fiona Xu,Art;CAS;Chem_H;Chinese_S;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9B,Grace Luo,Art;CAS;Chem_S+;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9B,Dora Sun,Art;CAS;Chem_S+;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9B,Leo Liu,Art;CAS;Chem_S+;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Kevin Gao,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9C,Jack Zhu,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9D,George Yang,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Ryan Yang,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Yuki Guo,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9A,Ivan Gao,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9D,George Hu,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Aaron Huang,Art;Bio_H;CAS;Chem_S+;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9D,Fiona Gao,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9A,Karen Yang,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9A,Mia Zhao,Art;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9B,Henry He,Art;CAS;Chem_S+;Chinese_S;Computer Science_H;English_S;History_H;Language;Math_H;Optional;PE;Phy_S+
+9B,Frank Guo,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9C,Frank Luo,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9C,Frank Yang,Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9B,Brian Wu,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_H;Language;Math_H;Optional;PE;Phy_S+
+9D,Karen Ma,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9C,Peter Wu,Art;CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9C,Karen Lin,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Emma Li,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,George Zhang,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9A,Peter Wang,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9B,Ivan Ma,CAS;Chem_S+;Chinese_H;Computer Science_S;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9C,Ivy Chen,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_H;Language;Math_S;Optional;PE;Phy_S
+9D,Queenie Wu,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Emma Ma,Art;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9C,Yuki Zhang,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9B,Olivia Lin,CAS;Chem_S+;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9D,Fiona Zhou,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Ethan Chen,Art;Bio_H;CAS;Chem_S+;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Cindy Zhang,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Queenie Luo,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Wendy Ma,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9D,Xander Zhou,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Frank Zhu,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Kevin Zhou,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9A,Uma Wang,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9C,Ethan Sun,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9B,Grace Zhu,Bio_H;CAS;Chem_S+;Chinese_H;English_H;History_S;Language;Math_H;Music;Optional;PE;Phy_S+
+9A,Ivan Li,Art;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Queenie Guo,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Hannah Chen,Art;CAS;Chem_S+;Chinese_S;Computer Science_S;English_S;History_H;Language;Math_S;Optional;PE;Phy_S+
+9C,Bella Zhu,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_S;Language;Math_H;Optional;PE;Phy_S+
+9B,Victor Guo,CAS;Chem_S+;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9C,Bella Guo,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Ivan Chen,Art;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Peter Zhao,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9B,Xander Ma,CAS;Chem_S+;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9D,Tom He,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Peter Ma,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Queenie Gao,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9A,Cindy Wu,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,Ivy Ma,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9A,Ivan Wu,Art;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Lily Liu,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Chris Lin,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Wendy Zhang,Art;Bio_H;CAS;Chem_S+;Chinese_S;English_S;History_H;Language;Math_S;Optional;PE;Phy_S+
+9B,Chris Zhao,Art;CAS;Chem_S+;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_S;Optional;PE;Phy_S+
+9D,Queenie Huang,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9C,Grace He,Bio_S;CAS;Chem_S+;Chinese_S;English_H;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9D,Alex Zhang,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,David Huang,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9D,Alex Guo,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Emma Sun,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9D,Yuki Huang,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9D,David Yang,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Mia Wu,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9B,Ethan Gao,Art;Bio_S;CAS;Chem_S+;Chinese_H;English_H;History_S;Language;Math_H;Optional;PE;Phy_S+
+9C,Fiona Ma,Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9B,Sophia Sun,CAS;Chem_S+;Chinese_S;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9D,Nick He,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,Lily Zhang,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9D,Jack Liu,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9C,George Xu,Art;Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S+
+9C,Karen Chen,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9C,Frank Wang,Art;Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Victor Chen,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9B,Julia Luo,Art;CAS;Chem_S+;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9B,Dora Wang,Art;CAS;Chem_S+;Chinese_H;Computer Science_S;English_S;History_S;Language;Math_H;Optional;PE;Phy_S+
+9B,Kevin Huang,Art;Bio_H;CAS;Chem_S+;Chinese_H;English_S;History_H;Language;Math_S;Optional;PE;Phy_S+
+9B,Fiona Chen,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9D,Sophia Zhang,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9B,Brian Hu,CAS;Chem_S+;Chinese_H;Computer Science_S;English_S;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9C,Frank Zhao,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9B,Victor Wu,CAS;Chem_S+;Chinese_H;English_S;Geography_S;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9B,Yuki Wang,CAS;Chem_S+;Chinese_H;English_H;Geography_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9B,Lily Zhou,Art;CAS;Chem_S+;Chinese_S;English_S;Geography_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9C,Ivy Gao,CAS;Chem_S+;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S+
+9C,Ivan Huang,Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_H;Language;Math_H;Music;Optional;PE;Phy_S+
+9B,George Lin,Art;CAS;Chem_S+;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_S+
+9A,Ivan Zhao,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9C,Grace Sun,Bio_S;CAS;Chem_S+;Chinese_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9C,Dora Yang,Art;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Ryan Ma,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9A,Ryan Zhou,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+9D,Ivy Lin,Art;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PE;Phy_S
+9A,Yuki Luo,Art;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_H;Optional;PE;Phy_H
+9D,Ethan Zhou,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Music;Optional;PE;Phy_S
+9A,Lily Guo,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_H;Music;Optional;PE;Phy_H
+10C,Zoe Li,Bio_H;CAS;Chinese_S;Computer Science_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10B,Olivia Wang,Bio_S;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Western Acting_H
+10D,Ivy Zhu,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10D,Sophia Li,Bio_S;CAS;Chinese_S;English_S+;Geography_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10B,Cindy Hu,Art_H;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10C,Victor Huang,Bio_S;CAS;Chem_S;Chinese_S;English_S+;Geography_S;History_S;Language;Math_H;Optional;PBL;PE
+10B,Zoe Sun,Bio_H;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_S;Language;Math_AP1;Optional;PBL;PE
+10B,Olivia Gao,CAS;Chem_H;Chinese_H;Economy_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10B,Henry Zhu,Art_AP;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10C,Cindy Zhou,Bio_S;CAS;Chinese_S;English_S;Geography_S;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10B,Olivia Zhang,Bio_H;CAS;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H;Western Acting_H
+10C,Ivy Li,Bio_S;CAS;Chinese_S;English_S+;Geography_S;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10C,Julia Liu,CAS;Chem_S;Chinese_S;Computer Science_H;English_H;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10D,Mia Ma,Art_S;Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10A,Ryan Liu,Bio_H;CAS;Chem_H;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE
+10B,Kevin Yang,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Zoe Guo,Bio_H;CAS;Chinese_H;English_AP;History_H;Language;Math_AP2;Music_AP;Optional;PBL;PE;Phy_H
+10A,Zoe Zhou,CAS;Chem_H;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10C,Grace Hu,Bio_H;CAS;Chinese_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S;Western Acting_S
+10D,Mia Hu,Bio_S;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE
+10D,Julia Lin,Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S;Western Acting_S
+10A,Nick Wang,Art_AP;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,Dora Zhou,CAS;Chem_H;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10C,Alex Sun,CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S;Western Acting_S
+10B,Fiona Luo,Bio_H;CAS;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_S
+10C,Queenie Yang,Bio_S;CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Western Acting_S
+10D,Henry Xu,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10A,Xander Huang,CAS;Chem_H;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,Leo Zhao,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10A,Leo Zhu,CAS;Chem_H;Chinese_H;Economy_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Cindy Ma,Bio_H;CAS;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10D,Aaron Sun,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10A,Henry Sun,Bio_H;CAS;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10D,Jack Yang,Bio_S;CAS;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10D,Hannah Li,Bio_S;CAS;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10C,Ryan Wu,CAS;Chem_S;Chinese_S;Computer Science_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10A,Wendy Hu,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10D,Tom Lin,Bio_S;CAS;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10A,Emma Yang,Bio_H;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Western Acting_H
+10D,Lily Gao,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10D,David Wang,Bio_S;CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10A,Tom Ma,CAS;Chem_H;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10B,Alex Zhu,Bio_H;CAS;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,Olivia Zhao,CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H;Western Acting_H
+10A,Queenie He,CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Music_AP;Optional;PBL;PE;Phy_H
+10D,Chris Sun,CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S;Western Acting_S
+10D,George Sun,Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S;Western Acting_S
+10D,Xander Zhao,CAS;Chem_S;Chinese_S;Economy_S;English_S+;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10B,Alex Gao,Art_H;Bio_H;CAS;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Ivy Yang,CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H;Western Acting_H
+10D,Ryan Chen,Bio_S;CAS;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10D,Julia Chen,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Western Acting_S
+10A,Karen Hu,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10A,Karen Luo,Bio_H;CAS;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10D,Sophia Zhu,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10C,Brian Yang,Art_H;Bio_S;CAS;Chem_H;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE
+10C,Queenie Zhao,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_H;English_H;History_S;Language;Math_AP1;Optional;PBL;PE
+10D,Wendy Zhu,Bio_S;CAS;Chinese_S;Economy_S;English_S;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10D,Ethan Liu,Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S;Western Acting_S
+10C,Peter Yang,Art_S;CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10A,Fiona Wang,Bio_H;CAS;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10C,George Gao,Art_S;CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10B,Sophia Huang,CAS;Chem_H;Chinese_H;Computer Science_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Julia Guo,Bio_H;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Music_AP;Optional;PBL;PE
+10B,Victor Gao,Bio_H;CAS;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Tom Guo,CAS;Chem_H;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,George Li,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10C,Hannah Gao,Bio_H;CAS;Chinese_S;Computer Science_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10B,Aaron Guo,Art_AP;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10C,Dora Huang,Art_H;CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_H
+10D,Uma Zhou,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Western Acting_S
+10B,Sophia Gao,Bio_H;CAS;Chem_H;Chinese_S;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10B,Dora Chen,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Western Acting_S
+10A,Fiona Lin,Bio_H;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP1;Optional;PBL;PE;Western Acting_H
+10D,Julia Hu,Art_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10C,Emma Wang,Bio_S;CAS;Chem_S;Chinese_S;Economy_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE
+10B,Hannah Wang,Bio_H;CAS;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Dora Li,CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10C,Tom Hu,CAS;Chem_S;Chinese_S;Computer Science_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10B,Cindy Huang,Bio_H;CAS;Chinese_H;Computer Science_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10C,Emma Xu,Art_H;Bio_S;CAS;Chem_H;Chinese_S;English_S+;History_S;Language;Math_AP1;Optional;PBL;PE
+10A,Uma Hu,Bio_H;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10D,Brian Luo,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10C,Julia Ma,Bio_S;CAS;Chem_H;Chinese_S;Economy_H;English_H;History_S;Language;Math_H;Optional;PBL;PE
+10D,Dora Gao,Art_S;Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10A,Karen Wu,Art_AP;Bio_H;CAS;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10C,George Guo,CAS;Chem_S;Chinese_S;English_S+;Geography_S;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10D,Hannah Luo,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_H;Optional;PBL;PE;Western Acting_S
+10B,Sophia Xu,Art_AP;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10C,Xander Liu,Art_S;Bio_S;CAS;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10D,Jack Zhou,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10C,Karen Liu,Bio_S;CAS;Chinese_S;English_H;History_S;Language;Math_AP1;Optional;PBL;PE;Phy_S;Western Acting_S
+10A,Mia Zhu,Bio_H;CAS;Chinese_H;Economy_AP;English_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10C,Grace Xu,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE
+10B,Henry Lin,Bio_H;CAS;Chem_H;Chinese_H;Economy_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10A,Wendy Luo,Art_AP;Bio_H;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10C,Zoe Lin,Bio_H;CAS;Chinese_S;Computer Science_S;English_S+;History_H;Language;Math_H;Optional;PBL;PE;Phy_S
+10B,Jack Chen,CAS;Chem_H;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10D,Aaron Wu,CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10D,Yuki Yang,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10A,Chris He,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10B,Leo Luo,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Western Acting_H
+10C,Cindy Liu,Bio_S;CAS;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_S
+10D,Yuki Zhou,CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music_S;Optional;PBL;PE;Phy_S
+10B,Mia Zhang,Bio_H;CAS;Chinese_S;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H;Western Acting_H
+10D,George Zhu,Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Music_S;Optional;PBL;PE;Phy_S
+10C,Xander Guo,Bio_S;CAS;Chinese_S;Economy_H;English_H;History_H;Language;Math_H;Optional;PBL;PE;Phy_S
+10B,Cindy Guo,CAS;Chem_H;Chinese_H;Economy_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Uma Li,CAS;Chem_H;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10B,Peter Zhu,Bio_S;CAS;Chem_H;Chinese_H;Economy_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10C,Ryan Li,Bio_H;CAS;Chem_S;Chinese_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Western Acting_S
+10A,Cindy Luo,Bio_H;CAS;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10B,Alex Huang,Bio_H;CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_AP1;Music_AP;Optional;PBL;PE
+10B,David Li,Bio_H;CAS;Chinese_H;Economy_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10B,David Lin,Bio_S;CAS;Chinese_S;Economy_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_S
+10D,Tom Chen,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10C,Bella Huang,Bio_S;CAS;Chem_S;Chinese_S;English_S+;Geography_S;History_H;Language;Math_AP1;Optional;PBL;PE
+10D,Lily Hu,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Western Acting_S
+10B,Nick Zhu,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Jack Xu,Bio_H;CAS;Chinese_H;English_AP;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H;Western Acting_H
+10B,Henry Zhao,CAS;Chem_H;Chinese_H;Economy_AP;English_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10C,Chris Luo,Bio_S;CAS;Chem_S;Chinese_S;English_S+;Geography_S;History_S;Language;Math_H;Optional;PBL;PE
+10C,Frank Xu,Bio_S;CAS;Chinese_S;English_S+;History_H;Language;Math_H;Optional;PBL;PE;Phy_S;Western Acting_S
+10A,Victor Li,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10A,Chris Hu,CAS;Chem_H;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10D,Zoe Gao,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_H;Optional;PBL;PE
+10C,Julia Zhang,Bio_S;CAS;Chem_S;Chinese_H;Economy_H;English_S+;History_S;Language;Math_AP1;Optional;PBL;PE
+10B,Xander Chen,Bio_S;CAS;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10C,Ethan Huang,CAS;Chem_H;Chinese_H;Economy_H;English_H;History_S;Language;Math_AP1;Optional;PBL;PE;Phy_S
+10D,Bella Ma,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10C,Olivia Zhu,Bio_S;CAS;Chinese_S;Computer Science_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10A,Victor Lin,Bio_H;CAS;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10B,Karen He,Bio_H;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10B,Aaron Luo,Bio_H;CAS;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_S
+10C,Olivia Luo,Bio_H;CAS;Chinese_H;Economy_H;English_H;History_H;Language;Math_H;Optional;PBL;PE;Phy_H
+10B,Kevin Li,Bio_H;CAS;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H;Western Acting_H
+10B,Ethan Zhang,Art_H;Bio_H;CAS;Chem_H;Chinese_H;English_H;History_S;Language;Math_AP1;Optional;PBL;PE
+10B,Peter Liu,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10A,Ivy Hu,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10C,Tom Zhou,CAS;Chem_H;Chinese_S;Computer Science_H;English_S+;History_H;Language;Math_H;Optional;PBL;PE;Phy_S
+10B,Tom Wu,CAS;Chem_S;Chinese_H;Computer Science_H;English_H;History_S;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10C,Dora Zhang,CAS;Chem_S;Chinese_S;Economy_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10C,Uma Gao,Bio_S;CAS;Chinese_S;Economy_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10A,Tom Sun,Bio_H;CAS;Chinese_H;English_AP;History_H;Language;Math_AP2;Music_AP;Optional;PBL;PE;Phy_H
+10A,Wendy Wang,Bio_H;CAS;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10B,Wendy Chen,Bio_S;CAS;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10D,Yuki Sun,Art_S;Bio_S;CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE
+10A,Brian Zhao,Bio_H;CAS;Chem_H;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE
+10A,Leo Zhou,CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,Lily Lin,Bio_H;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Western Acting_H
+10C,Brian He,Bio_S;CAS;Chinese_S;Economy_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10C,Uma Zhang,Art_H;Bio_S;CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE
+10B,Uma Sun,CAS;Chem_H;Chinese_H;Computer Science_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10C,Tom Liu,Bio_S;CAS;Chinese_S;Economy_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10D,Kevin Zhu,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10C,Leo Xu,Bio_S;CAS;Chinese_S;Computer Science_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10D,Nick Zhao,Bio_S;CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10C,Ivy Guo,CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Music_H;Optional;PBL;PE;Phy_S
+10C,Zoe Xu,CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S;Western Acting_S
+10B,Ryan Zhao,CAS;Chem_S;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10B,Alex Luo,Bio_H;CAS;Chinese_H;English_H;History_H;Language;Math_AP1;Music_AP;Optional;PBL;PE;Phy_H
+10A,Emma Luo,CAS;Chem_H;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10B,Ivan Xu,Art_H;Bio_H;CAS;Chem_S;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10C,Nick Sun,Bio_H;CAS;Chinese_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_H;Western Acting_H
+10B,Chris Chen,Art_AP;Bio_H;CAS;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10B,Uma Wu,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_S;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Brian Chen,Bio_H;CAS;Chem_H;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10D,Sophia Wu,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10A,Cindy Zhao,Art_AP;Bio_H;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10B,Chris Huang,Bio_H;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10D,Grace Zhang,Art_S;Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10C,Uma Zhu,CAS;Chem_S;Chinese_S;Computer Science_S;English_S+;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10C,Yuki Lin,CAS;Chem_H;Chinese_S;English_S+;Geography_S;History_S;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10D,Fiona Yang,Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S;Western Acting_S
+10C,Brian Ma,Bio_H;CAS;Chem_S;Chinese_S;English_S+;History_H;Language;Math_H;Music_S;Optional;PBL;PE
+10C,Mia Wang,CAS;Chem_S;Chinese_S;Economy_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10C,Wendy Sun,Bio_H;CAS;Chinese_S;Economy_H;English_H;History_S;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10D,Leo Ma,Bio_S;CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10D,Karen Zhu,Bio_S;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE
+10D,Nick Lin,Art_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10D,Ryan Hu,CAS;Chem_S;Chinese_S;Computer Science_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10C,Hannah Ma,CAS;Chem_S;Chinese_S;English_S+;Geography_S;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10A,Grace Zhou,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10A,Ivan Lin,Bio_H;CAS;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10B,Karen Xu,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Bella Hu,Art_AP;Bio_H;CAS;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,Ryan Zhang,Art_AP;Bio_H;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10D,Ethan Ma,Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S;Western Acting_S
+10B,Frank Lin,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10B,Bella Sun,CAS;Chem_H;Chinese_H;English_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H;Western Acting_H
+10D,Xander Gao,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Western Acting_S
+10C,Victor Zhao,Bio_S;CAS;Chinese_S;Computer Science_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_H
+10D,Karen Huang,CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10C,Fiona Zhang,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE
+10A,Victor Zhu,Bio_H;CAS;Chinese_H;English_AP;History_H;Language;Math_AP2;Music_AP;Optional;PBL;PE;Phy_H
+10C,Kevin Guo,CAS;Chem_S;Chinese_S;Economy_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10A,Dora Lin,Bio_H;CAS;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,Ivy Luo,Bio_H;CAS;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10B,Bella Wu,Bio_H;CAS;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H;Western Acting_H
+10C,Karen Guo,Art_H;Bio_S;CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE
+10D,Victor Liu,Art_S;Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10A,Bella Zhao,Art_AP;Bio_H;CAS;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10C,Cindy Li,Bio_S;CAS;Chem_H;Chinese_S;Computer Science_H;English_S+;History_H;Language;Math_H;Optional;PBL;PE
+10A,Mia Sun,Bio_H;CAS;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10D,Wendy Guo,Art_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10B,Peter Zhang,Bio_H;CAS;Chinese_H;Computer Science_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10C,Henry Wu,Bio_S;CAS;Chem_S;Chinese_S;English_S+;Geography_S;History_S;Language;Math_H;Optional;PBL;PE
+10B,Grace Liu,Bio_H;CAS;Chem_H;Chinese_H;Economy_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10D,Frank Wu,Bio_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Music_S;Optional;PBL;PE
+10B,Ryan Huang,Bio_H;CAS;Chinese_H;Economy_AP;English_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10C,Victor Zhou,Bio_H;CAS;Chinese_H;Computer Science_H;English_H;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10B,David Guo,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10D,Ivan Hu,Bio_S;CAS;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10C,Ivan Guo,Bio_S;CAS;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S;Western Acting_S
+10D,Alex Xu,Bio_S;CAS;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10B,Aaron Xu,Art_H;Bio_H;CAS;Chinese_H;English_H;History_S;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10C,Nick Luo,CAS;Chem_S;Chinese_S;Computer Science_H;English_S+;History_H;Language;Math_H;Optional;PBL;PE;Phy_S
+10B,Bella Gao,CAS;Chem_H;Chinese_H;Computer Science_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Brian Liu,Bio_H;CAS;Chem_H;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE
+10D,Emma Huang,CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10A,Nick Liu,Art_AP;Bio_H;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10D,Hannah Liu,Bio_S;CAS;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10D,Aaron Li,Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S;Western Acting_S
+10B,Hannah Sun,Art_AP;Bio_H;CAS;Chinese_H;English_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10C,Aaron Ma,Art_H;Bio_S;CAS;Chem_S;Chinese_S;English_S+;History_H;Language;Math_AP1;Optional;PBL;PE
+10C,Zoe Yang,Bio_S;CAS;Chem_H;Chinese_S;Computer Science_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE
+10C,Ryan Lin,Bio_H;CAS;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S;Western Acting_H
+10D,Fiona Sun,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10C,Grace Lin,Bio_S;CAS;Chem_S;Chinese_S;English_S+;Geography_S;History_S;Language;Math_H;Optional;PBL;PE
+10C,Leo Li,CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_AP1;Music_H;Optional;PBL;PE;Phy_H
+10B,Henry Yang,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10A,Lily Wang,Bio_H;CAS;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10D,Ethan Li,Bio_S;CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10A,Ethan Yang,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP1;Optional;PBL;PE
+10B,Ivy He,CAS;Chem_H;Chinese_H;Computer Science_AP;English_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10D,Brian Zhu,Art_S;Bio_S;CAS;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10B,Sophia Lin,Bio_S;CAS;Chem_H;Chinese_H;Economy_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10A,Queenie Ma,Bio_H;CAS;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10D,Karen Gao,Bio_S;CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10B,Alex Hu,Bio_H;CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10C,Ivan Sun,CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S;Western Acting_S
+10D,Dora Xu,Bio_S;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE
+10D,George Zhao,Bio_S;CAS;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10A,Uma Yang,Art_AP;Bio_H;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10B,Ryan Gao,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10D,Julia Xu,Bio_S;CAS;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10B,Emma Gao,Bio_H;CAS;Chinese_H;Computer Science_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10D,Tom Yang,Bio_S;CAS;Chem_S;Chinese_S;English_S;Geography_S;History_S;Language;Math_S;Optional;PBL;PE
+10C,Lily Zhu,Bio_S;CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Western Acting_S
+10B,David Xu,Bio_H;CAS;Chem_H;Chinese_H;Economy_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE
+10A,Kevin Luo,Bio_H;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Western Acting_H
+10D,Leo Zhang,Bio_S;CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10C,Cindy Gao,Bio_S;CAS;Chinese_H;Computer Science_H;English_H;History_S;Language;Math_AP1;Optional;PBL;PE;Phy_S
+10C,Nick Xu,CAS;Chem_S;Chinese_S;Computer Science_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10A,Aaron Gao,Bio_H;CAS;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,Ivan Yang,Art_AP;Bio_H;CAS;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,Xander Lin,Bio_H;CAS;Chinese_H;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H;Western Acting_H
+10A,Ethan Lin,Bio_H;CAS;Chinese_H;English_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H;Western Acting_H
+10A,George Wu,CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10D,Yuki Zhu,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10C,Sophia Liu,CAS;Chem_H;Chinese_S;English_H;History_H;Language;Math_H;Music_H;Optional;PBL;PE;Phy_S
+10C,Julia He,CAS;Chem_S;Chinese_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S;Western Acting_S
+10B,Frank Liu,CAS;Chem_H;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10C,Cindy Sun,Bio_S;CAS;Chem_S;Chinese_H;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Western Acting_H
+10B,Brian Wang,Bio_H;CAS;Chinese_H;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10B,Olivia Liu,Bio_H;CAS;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,Fiona Li,CAS;Chem_H;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10D,Ryan Wang,Bio_S;CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10B,Zoe He,Bio_H;CAS;Chinese_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H;Western Acting_H
+10C,George Liu,Bio_S;CAS;Chem_S;Chinese_S;English_S+;Geography_S;History_S;Language;Math_H;Optional;PBL;PE
+10D,Brian Huang,Bio_S;CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10D,Lily Ma,Bio_S;CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10B,Uma Chen,Art_H;Bio_H;CAS;Chinese_S;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Tom Wang,CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Music_AP;Optional;PBL;PE;Phy_H
+10B,Mia Huang,Bio_H;CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10B,Ivy Zhao,CAS;Chem_S;Chinese_S;Computer Science_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10D,Jack Sun,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10D,Yuki Gao,CAS;Chem_S;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10A,Zoe Zhao,CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,Xander Yang,Bio_H;CAS;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10A,Queenie Lin,Bio_H;CAS;Chinese_H;Computer Science_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10A,Sophia Guo,Bio_H;CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP2;Music_AP;Optional;PBL;PE
+10D,Jack Wu,Bio_S;CAS;Chinese_S;Economy_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10A,Victor Luo,Bio_H;CAS;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10B,Zoe Chen,CAS;Chem_H;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10D,Sophia Luo,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10A,George Zhou,CAS;Chem_H;Chinese_H;Computer Science_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10C,Kevin Xu,Bio_S;CAS;Chinese_S;Computer Science_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10C,Henry Ma,CAS;Chem_S;Chinese_S;Economy_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S
+10B,Wendy Liu,Bio_H;CAS;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10B,Peter Gao,CAS;Chem_H;Chinese_H;Computer Science_AP;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10B,Henry Luo,CAS;Chem_H;Chinese_H;Economy_H;English_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_S
+10B,Chris Ma,CAS;Chem_H;Chinese_H;English_AP;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H;Western Acting_H
+10D,Jack Ma,Bio_S;CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE
+10D,Uma Luo,Art_S;CAS;Chem_S;Chinese_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10A,Mia Gao,Bio_H;CAS;Chem_H;Chinese_H;Economy_AP;English_AP;History_H;Language;Math_AP2;Optional;PBL;PE
+10A,Ivy Sun,CAS;Chem_H;Chinese_H;English_AP;Geography_H;History_H;Language;Math_AP2;Optional;PBL;PE;Phy_H
+10B,Alex Wu,Bio_H;CAS;Chinese_H;English_H;Geography_H;History_H;Language;Math_AP1;Optional;PBL;PE;Phy_H
+10D,Mia Luo,CAS;Chem_S;Chinese_S;Computer Science_S;English_S;History_S;Language;Math_S;Optional;PBL;PE;Phy_S
+10C,Uma Lin,Bio_S;CAS;Chinese_S;Economy_S;English_S+;History_S;Language;Math_H;Optional;PBL;PE;Phy_S

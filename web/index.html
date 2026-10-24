@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SHSID Timetable · HackSHSID 2026</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>SHSID Timetable</h1>
+  <p class="sub">HackSHSID 2026 · Track 1 — bi-weekly schedule (odd / even weeks)</p>
+</header>
+
+<section class="controls">
+  <div class="seg" id="kindSeg">
+    <button data-kind="student" class="on">Student</button>
+    <button data-kind="teacher">Teacher</button>
+  </div>
+  <input id="search" list="people" placeholder="Type a name or ID…"
+         autocomplete="off">
+  <datalist id="people"></datalist>
+  <div class="seg" id="weekSeg">
+    <button data-week="odd" class="on">Odd week (CAS)</button>
+    <button data-week="even">Even week</button>
+  </div>
+</section>
+
+<section id="examplesWrap">
+  <h2>Featured examples <span id="exCount"></span>
+    <button id="browseToggle" class="browse-toggle">Browse all ▾</button>
+  </h2>
+  <div id="examples" class="examples"></div>
+  <div id="browseAll" class="browse-all hidden"></div>
+</section>
+
+<section id="personCard" class="person-card hidden"></section>
+<section id="grid" class="grid-wrap hidden">
+  <table id="tt">
+    <thead><tr id="ttHead"></tr></thead>
+    <tbody id="ttBody"></tbody>
+  </table>
+  <p class="legend">
+    <span class="chip dbl">Double class</span>
+    <span class="chip wk">Week-specific (odd/even)</span>
+    Rooms: same floor = short move, cross floor = long move
+  </p>
+</section>
+
+<footer>Generated offline by the Python scheduler · 600 students ·
+  bi-weekly hours exactly 76 per student</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

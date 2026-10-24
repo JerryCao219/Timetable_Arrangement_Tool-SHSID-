@@ -1,7 +1,7 @@
 # SHSID Timetable — HackSHSID 2026 Track 1
 
 A bi-weekly (odd/even week) timetable generator for 600 students (Grades 9-10,  
-300 each, as in the name list), with per-student and per-teacher schedules, exported to a pure  
+300 each), with per-student and per-teacher schedules, exported to a pure  
 static web app.
 
 ## Quick start

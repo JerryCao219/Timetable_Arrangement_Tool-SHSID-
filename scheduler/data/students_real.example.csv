@@ -1,0 +1,5 @@
+name,grade,Ch_lv,En_lv,Ma_lv,Hist_lv,SciA,SciA_lv,SciB,SciB_lv,Elec,Elec_lv,Phy_lv,Chem_lv,ArtMus
+Alice Test,10,H,AP,AP1,H,Phy,S,Bio,H,Computer Science,AP,,,
+Bob Test,10,S,S,S,S,Chem,H,Phy,S,Economy,S,,,
+Carol Test,9,H,H,H,H,,,,,Bio,H,S,H,Art
+Dave Test,9,S,S,S,S,,,,,Computer Science,S,S,S,Music

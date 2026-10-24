@@ -1,0 +1,35 @@
+{
+  "checks": {
+    "failed": [],
+    "allPassed": true
+  },
+  "warnings": [],
+  "metrics": {
+    "travelBaseline": 129876,
+    "travelOptimised": 48879,
+    "travelSaved": 80997,
+    "travelSavingPct": 62.4,
+    "oddEvenSections": 54,
+    "academicTeachers": 105,
+    "dedicatedTeachers": 72,
+    "teacherPeaks": {
+      "English": 12,
+      "Math": 12,
+      "Chem": 7,
+      "Phy": 9,
+      "Chinese": 8,
+      "Bio": 6,
+      "Computer Science": 6,
+      "Geography": 4,
+      "PBL": 3,
+      "Language": 3,
+      "History": 8,
+      "Art": 3,
+      "Music": 3,
+      "Economy": 3,
+      "Western Acting": 2
+    },
+    "avgStudentTravelPerWeek": 40.73,
+    "avgTeacherDailySpread": 2.4
+  }
+}
